@@ -57,16 +57,3 @@ This organization hosts open-source tools, research implementations, and infrast
 ## Related
 
 NexaFi operates alongside [QuantSingularity Research Institute](https://quantsingularity.org), an independent quantitative finance and ML research organization with published work in explainable deep learning, spoofing detection, DRL portfolio optimization, and quantum-enhanced RL for financial systems.
-
----
-
-## Contact
-
-| Channel           | Address                                       |
-| ----------------- | --------------------------------------------- |
-| General Inquiries | [hello@nexafi.tech](mailto:hello@nexafi.tech) |
-| Website           | [nexafi.tech](https://nexafi.tech)            |
-
----
-
-_2026 NexaFi - Automating the Future of Finance_
