@@ -1,4 +1,4 @@
-# NexaFi
+## Hi there 👋
 
 NexaFi is an AI-driven financial services firm building autonomous agents, intelligent workflow systems, and financial infrastructure for institutions operating in modern capital markets. We sit at the intersection of quantitative research and production engineering, designing systems where intelligence is the operating layer, not an add-on.
 
