@@ -1,13 +1,5 @@
 # NexaFi
 
-**Automating the Future of Finance**
-
-AI agents, workflow automation, and financial infrastructure for the next generation of capital markets.
-
----
-
-## About NexaFi
-
 NexaFi is an AI-driven financial services firm building autonomous agents, intelligent workflow systems, and financial infrastructure for institutions operating in modern capital markets. We sit at the intersection of quantitative research and production engineering, designing systems where intelligence is the operating layer, not an add-on.
 
 Our work spans autonomous decision-making agents, end-to-end workflow automation, real-time analytics pipelines, risk infrastructure, and API-first system integration. Every system we build is grounded in rigorous financial theory and engineered for real-world deployment at scale.
