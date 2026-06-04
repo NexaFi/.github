@@ -4,8 +4,6 @@
 
 AI agents, workflow automation, and financial infrastructure for the next generation of capital markets.
 
-[![Website](https://img.shields.io/badge/nexafi.tech-000000?style=flat&logo=google-chrome&logoColor=white)](https://nexafi.tech)
-
 ---
 
 ## About NexaFi
