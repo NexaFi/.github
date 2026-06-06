@@ -1,59 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-NexaFi is an AI-driven financial services firm building autonomous agents, intelligent workflow systems, and financial infrastructure for institutions operating in modern capital markets. We sit at the intersection of quantitative research and production engineering, designing systems where intelligence is the operating layer, not an add-on.
+**StratumQ** is an agentic AI company building intelligent systems for financial operations, workflow automation, and enterprise execution.
 
-Our work spans autonomous decision-making agents, end-to-end workflow automation, real-time analytics pipelines, risk infrastructure, and API-first system integration. Every system we build is grounded in rigorous financial theory and engineered for real-world deployment at scale.
-
----
+We design autonomous agents and AI-native infrastructure that help organizations streamline complex work, improve decision-making, and operate with greater speed and precision.
 
 ## What We Build
 
-| Area                           | Description                                                                                      |
-| ------------------------------ | ------------------------------------------------------------------------------------------------ |
-| **Autonomous AI Agents**       | Multi-agent systems for financial decision-making, market monitoring, and real-time execution    |
-| **Workflow Automation**        | End-to-end automation of financial workflows including reporting, reconciliation, and compliance |
-| **Real-Time Analytics**        | Live data pipelines and ML-powered dashboards surfacing actionable market intelligence           |
-| **Risk Infrastructure**        | AI-native risk monitoring with continuous evaluation, anomaly detection, and automated response  |
-| **Financial Infrastructure**   | Scalable cloud-native infrastructure for high-throughput, low-latency financial environments     |
-| **API and System Integration** | Integration layers connecting legacy systems, data vendors, and AI tooling into a unified stack  |
-
----
+- Agentic AI systems for financial and operational workflows
+- Autonomous agents for analysis, monitoring, and execution
+- Workflow orchestration across tools, data, and teams
+- Real-time analytics and decision support systems
+- Secure enterprise AI integrations
+- Scalable infrastructure for production AI deployment
 
 ## How We Work
 
-```
-Discovery  ->  Architecture  ->  Build and Test  ->  Deploy and Monitor
-```
-
-1. **Discovery** - We audit your financial workflows and identify the highest-leverage automation opportunities.
-2. **Architecture** - We design a tailored multi-agent system blueprint aligned with your risk and compliance requirements.
-3. **Build and Test** - Agents are built, backtested, and stress-tested in isolated environments before production exposure.
-4. **Deploy and Monitor** - Production deployment with full observability tooling and an ongoing support layer.
-
----
+Discovery -> Design -> Build -> Deploy -> Optimize
 
 ## Core Principles
 
-- **AI-Native by Design** - Intelligence is the operating layer, not a retrofit.
-- **Research-Backed Engineering** - Every system is grounded in quantitative financial theory.
-- **Compliance-Aware Architecture** - Auditability and traceability are first-class requirements.
-- **Modular and Scalable** - Systems are designed for independent deployment, scaling, and replacement.
-- **End-to-End Ownership** - From architecture to deployment to ongoing monitoring.
-
----
+- Agentic by design
+- Production first
+- Human + AI collaboration
+- Modular and scalable architecture
+- Measurable business outcomes
 
 ## Repositories
 
-This organization hosts open-source tools, research implementations, and infrastructure components built by the NexaFi team. Repositories span:
+This organization hosts open-source tools, infrastructure components, and research implementations built by the StratumQ team.
 
-- Agent frameworks and orchestration utilities
-- Financial data pipelines and preprocessing tools
-- Risk modeling and analytics libraries
-- Workflow automation templates
-- Integration adapters and API clients
+Areas of focus include:
 
----
+- AI agent frameworks
+- Financial intelligence tooling
+- Workflow automation systems
+- Data engineering pipelines
+- Monitoring and evaluation tools
+- API and integration layers
 
-## Related
+## Our Mission
 
-NexaFi operates alongside [QuantSingularity Research Institute](https://quantsingularity.org), an independent quantitative finance and ML research organization with published work in explainable deep learning, spoofing detection, DRL portfolio optimization, and quantum-enhanced RL for financial systems.
+To build intelligent systems that help businesses operate with more clarity, efficiency, and control.
