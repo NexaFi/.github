@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**StratumQ** is an agentic AI company building intelligent systems for financial operations, workflow automation, and enterprise execution.
+**NexaFi** is an agentic AI company building intelligent systems for financial operations, workflow automation, and enterprise execution.
 
 We design autonomous agents and AI-native infrastructure that help organizations streamline complex work, improve decision-making, and operate with greater speed and precision.
 
@@ -27,7 +27,7 @@ Discovery -> Design -> Build -> Deploy -> Optimize
 
 ## Repositories
 
-This organization hosts open-source tools, infrastructure components, and research implementations built by the StratumQ team.
+This organization hosts open-source tools, infrastructure components, and research implementations built by the NexaFi team.
 
 Areas of focus include:
 
